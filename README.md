@@ -1,2 +1,4 @@
 # JPEG_Image_Analysis
-DCT basis
+In this repo, we will present different JPEG image analysis methods.
+
+1. DCT basis
